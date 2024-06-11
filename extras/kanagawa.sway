@@ -11,7 +11,8 @@ set $sumiInk0 	    #16161D
 set $sumiInk1 	    #1F1F28
 
 # Lighter background (colorcolumn, folds)
-set $sumiInk2 	    #2A2A37
+# Previously #2A2A37 (lighter). Changed to match the background color for a simpler look
+set $sumiInk2 	    #1F1F28
 
 # Lighter background (cursorline)
 set $sumiInk3 	    #363646

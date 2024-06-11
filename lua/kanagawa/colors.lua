@@ -6,7 +6,7 @@ local palette = {
     sumiInk1 = "#181820",
     sumiInk2 = "#1a1a22",
     sumiInk3 = "#1F1F28",
-    sumiInk4 = "#2A2A37",
+    sumiInk4 = "#1F1F28",  -- "#2A2A37",
     sumiInk5 = "#363646",
     sumiInk6 = "#54546D", --fg
 
